@@ -8,7 +8,7 @@ You need vagrant and puppet installed. That is left as an exercise for the reade
 
 Clone the repository and then run:
 
-  vagrant up
+    vagrant up
   
 and you're done.
 
